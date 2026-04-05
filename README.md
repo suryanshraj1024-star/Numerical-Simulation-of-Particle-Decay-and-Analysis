@@ -1,6 +1,7 @@
 # Particle Decay Simulations (Monte Carlo)
 
 This project implements Monte Carlo simulations of key processes in particle and nuclear physics using Python. It reproduces both relativistic decay kinematics and statistical decay laws through computational methods.
+This is course project for PH-5720 done under Dr. Prabhat Pujahari.
 
 ---
 
